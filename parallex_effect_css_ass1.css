@@ -1,0 +1,32 @@
+*{
+    background: rgba(245, 174, 245, 0.678);
+    font-size: 1.4rem;
+}
+
+h1{
+    font-style: italic;
+    background-color: rgb(190, 149, 226);
+    color: white;
+    font-size: 3rem;
+    
+}
+h3{
+    font: 2rem bold rgb(124, 117, 126);
+}
+.pic1{
+    background:url('https://www.thoughtco.com/thmb/1g2-jnNGFo6SMikINMmHOmKsBMI=/3865x2576/filters:fill(auto,1)/sunrise-at-taj-mahal--agra--uttar-pradash--india-583682538-5b91840bc9e77c0050bdc67b.jpg')
+     no-repeat fixed center/cover;
+     height: 100vh;
+     color: white;
+}
+.pic2{
+    background:url('https://static.toiimg.com/photo/85488646.cms')
+     no-repeat fixed center/cover;
+     height: 50vh;
+}
+.pic3{
+    background:url('https://wallpaper-house.com/data/out/7/wallpaper2you_148632.jpg')  
+     no-repeat fixed center/cover;
+     height: 50vh;
+     color: rgb(255, 255, 255);
+}
